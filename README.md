@@ -4,6 +4,8 @@
 
 Discover the Future of Web3: Learn, Build, and Innovate at the 24-Hour Hackathon at the Leipzig Spinnerei on the 28/29th of June 2023
 
+Find a LOT OF useful information below but make sure to check our [Hacker Manual](https://leipzig-dao.notion.site/Hacker-Manual-d729529f1cd94289ba04c5addac143be?pvs=4) for all rules and guidelines.
+
 ## We uses Web3 for bounty distribution
 
 MACHN-Web3 Hackathon is leverageing the tax compliant, on-chain payout system built by the fine folks at [OpenQ](https://openq.dev).
@@ -30,21 +32,33 @@ Whether you're a seasoned developer or just starting out, this hackathon is open
 
 Every hacker that successfully submitted a project will be eligible to recieve a free ticket to the MACHN-Festival!
 
-## Tracks (WIP)
+## Tracks
 
-- Build a project on a zkEVM
-- Public goods
-- NFT
+- ReFi
+
+- Public Goods
 
 ## Prizes
 
 The top 3 projects get to present on the pitch stage of the MACHN Festival.
 
-- not complete -
-
 1st: 150 USDC
 2nd: 70 USDC
 3rd: 30 USDC
+
+## Bounties
+
+**ReFi**:
+
+🥇 $700 in cUSD
+
+🥈 $300 in cUSD
+
+**Public Goods:**
+
+🥇 $700 in cUSD
+
+🥈 $300 in cUSD
 
 ## Hacker Manual
 
