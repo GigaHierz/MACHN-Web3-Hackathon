@@ -1,4 +1,4 @@
-![MACHN-WEb3 Hackathon](https://imgtr.ee/images/2023/06/07/pSpa4.jpg)
+![MACHN-WEb3 Hackathon](https://ibb.co/pvBWhq4)
 
 # MACHN-Web3-Hackathon
 
@@ -56,15 +56,15 @@ will be shared soon
 
 10:00 - official opening
 
-10:30 - team formation workshop
+11:00 - ideation workshop
 
-13:00 - workshop 1
+12:00 - team formation workshop
 
-13:30 - workshop 2
+13:30 - lunch
 
-15:00 - workshop 3
+15:00 - workshop 1
 
-15:30 - workshop 4
+15:30 - workshop 2
 
 18:00 - dinner
 
@@ -75,6 +75,8 @@ HACKING ALL NIGHT
 29.06.2023
 
 10:00 - submission deadline
+
+11:00 - judging begins
 
 13:00 - winners announcement and presentation of the finalists projects
 
