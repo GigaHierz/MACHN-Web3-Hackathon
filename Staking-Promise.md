@@ -4,24 +4,26 @@ Make a promise with a friend and fulfill it together to get staking rewards, or 
 
 ## Tam Members
 
- Javier Bullrich
+ Javier Bullrich - @jbullrich
  <br> 
  Estefani Noeli
  <br> 
- Manuel Pastor Ringuelet
+ Manuel Pastor Ringuelet - @manuelpastor
  <br> 
- Mustafa Naouf.
+ Mustafa Naouf - @TRSS8
 
 [LINK TO THE PROJECT REPOSITORY](https://github.com/CodingBull-dev/staking-promises/)
 
 [10 SLIDE PRESENTATION](https://pitch.com/public/d496b7a7-0e23-4efe-8508-c6d649454cca)
 
+[Online Demo](https://staking-promises-git-main-bullrich.vercel.app/)
+
 [Youtube Video](https://youtu.be/pIXwMgYK3U4)
 
-https://bullrich.dev/social
+[Bullrich.dev](https://bullrich.dev/social)
 <br> 
-https://github.com/estefaninoely
+[@estefaninoely](https://github.com/estefaninoely)
 <br> 
-https://github.com/manuelpastorringuelet
+[@manuelpastorringuelet](https://github.com/manuelpastorringuelet)
 <br> 
-https://github.com/mustafa32132
+[@mustafa32132](https://github.com/mustafa32132)
