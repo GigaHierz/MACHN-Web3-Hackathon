@@ -1,24 +1,15 @@
 ## Stake For Good
 
-## Lasse: Web 3.0, FE - Laura: Deployment, FE - Lukas: FE - Niko: FE - Felix: PM
+## Invest & Help
+
+## 
+
+## Lasse (Discord: laessig_r, GitHub: @lassrie): Web 3.0, FE - Laura (Discord: @lauraleipzig, GitHub: @Laurazig): Deployment, FE - Lukas (Discord: @_Resi_#1715, GitHub: @Flashness123): FE - Niko (Discord: @nikko5870, GitHub: @Nikonovas): FE - Felix (Discord: @goodkat23, GitHub: @felixfoertsch): PM
 
 ## https://github.com/stake-for-good/machn-festival
 
-## Socials
-Laura
-GitHub: @Laurazig
-Discord: @lauraleipzig
+##
 
-Lukas
-GitHub: @Flashness123
-Discord: @Resi#1715
+##
 
-Lasse
-GitHub: @lassrie
-
-Niko
-GitHub: @Nikonovas
-Discord: @nikko5870
-
-Felix
-GitHub: @felixfoertsch
+##
