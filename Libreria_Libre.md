@@ -20,6 +20,9 @@ Marginalized communities publish and share textual resources that aid their poli
 ## Solution
 Libreria Libre is a platform for marginalized communities to store textual resources in a decentralized and permanent way, with an integrated community approval and resource upvoting/downvoting system. The funds used for approval and upvoting/downvoting get directly donated to causes fighting for the rights of these communities.
 
+## Example Use Case
+Last month (May 2023), a new law passed in Florida that makes it illegal for the majority of health institutions to provide hormone replacement therapy (HRT) for trans adults. As a result, many trans people are switching to do-it-yourself (DIY) HRT. Guides to doing safe DIY HRT circulate on the social media and it would profit the trans community to have a decentralized, censorship-resistant and free access to such guides.
+
 ## Tech Stack Used
 - Typescript
 - Celo Composer
